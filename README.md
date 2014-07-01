@@ -7,3 +7,6 @@ Contains design documents for various incarnations of the Uzebox open source gam
 -Black and white version which is laid out on a one-sided PCB for home fabrication and uses 20 SMT components
 
 -Development version with an SD card reader and GPIOs broken out
+
+
+More information here: http://www.davidcranor.com/uzebox
